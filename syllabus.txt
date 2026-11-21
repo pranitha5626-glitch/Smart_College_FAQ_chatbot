@@ -1,0 +1,75 @@
+COLLEGE: Vivekananda College of Engineering and Technology
+
+DEPARTMENT: Artificial Intelligence and Machine Learning
+
+SEMESTER: 5th Semester
+
+SUBJECT 1: SOFTWARE ENGINEERING AND PROJECT MANAGEMENT
+
+Unit 1:
+Introduction to Software Engineering, Software Development Life Cycle (SDLC), Software process models, Waterfall Model and Agile Model.
+
+Unit 2:
+Software Project Planning, Project Management, Cost Estimation, Risk Management and Project Scheduling.
+
+Unit 3:
+Software Requirements Analysis, Functional Requirements, Non-Functional Requirements and Software Design.
+
+Unit 4:
+Software Testing, Unit Testing, Integration Testing, System Testing and Software Maintenance.
+
+SUBJECT 2: COMPUTER NETWORKS
+
+Unit 1:
+Introduction to Computer Networks, Network types, Network topologies and Network protocols.
+
+Unit 2:
+OSI Reference Model, TCP/IP Model, Physical Layer and Data Link Layer.
+
+Unit 3:
+Network Layer, IP Addressing, Routing Algorithms and Transport Layer.
+
+Unit 4:
+TCP, UDP, Application Layer, DNS, HTTP and Network Security.
+
+SUBJECT 3: THEORY OF COMPUTATION
+
+Unit 1:
+Introduction to Automata Theory, Finite Automata, Deterministic Finite Automata (DFA).
+
+Unit 2:
+Non-Deterministic Finite Automata (NFA), Regular Expressions and Regular Languages.
+
+Unit 3:
+Context-Free Grammar (CFG), Pushdown Automata (PDA) and Context-Free Languages.
+
+Unit 4:
+Turing Machines, Decidability and Undecidable Problems.
+
+SUBJECT 4: INFORMATION RETRIEVAL
+
+Unit 1:
+Introduction to Information Retrieval, Information Retrieval Systems, Search Engines and Document Processing.
+
+Unit 2:
+Indexing, Inverted Index, Tokenization, Stop Word Removal and Stemming.
+
+Unit 3:
+Information Retrieval Models, Boolean Model, Vector Space Model and TF-IDF.
+
+Unit 4:
+Query Processing, Ranking Algorithms, Precision, Recall and Search Evaluation.
+
+SUBJECT 5: RESEARCH SEARCH METHODOLOGY
+
+Unit 1:
+Introduction to Research, Meaning of Research, Types of Research and Research Process.
+
+Unit 2:
+Research Problem Identification, Literature Review, Research Objectives and Hypothesis.
+
+Unit 3:
+Research Design, Data Collection Methods, Sampling Techniques and Data Analysis.
+
+Unit 4:
+Research Report Writing, Research Ethics, Citations, References and Plagiarism.
